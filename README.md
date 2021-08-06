@@ -32,3 +32,5 @@ List<BezierCurve> bezierCurves = CurveFitter.FitCurve(samplePoints, ERROR_THRESH
 
 ## Examples
 
+![1](examples/1.png)
+![2](examples/2.png)
